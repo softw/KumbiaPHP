@@ -7,11 +7,11 @@ Fácil, rápido y en español
 (Or should I say fast and easy?)
 
 ---
-Bienvenidos a KumbiaPHP Framework  Versión 1.0
-Manual en construcción de la 1.0: https://github.com/KumbiaPHP/
+Bienvenidos a KumbiaPHP Framework  Versión 2.0.0 en construccion
+Sin manual de construcción
 
 ##Change Log
-* Requiere PHP 5.4 como mínimo (usa la 0.9 para PHP 5.2 y 5.3)
+* Requiere PHP 5.6 como mínimo (usa la 0.9 para PHP 5.2 y 5.3, o la 1.0 para php 5.4)
 
 
 Rápida introducción a lo nuevo de la beta2 (faltan por añadir): http://wiki.kumbiaphp.com/KumbiaPHP_Framework_Versi%C3%B3n_1.0_Beta2
